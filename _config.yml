@@ -21,7 +21,7 @@ resume_contact_telephone:       "+61 422 389 948"
 resume_contact_address:         "1004, 45 Haig St, Southbank VIC 3006"
 
 resume_header_contact_info:     "+61 422 389 948 • ayumi.cat.mukai@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Graduated Master of Engineering(Architecture) and engaged on developing an architectural auto-planning system as a system engineer for 2 year. I'm eager to learn and study about quatative evaluation for architecture using mathematical, statistical, and computational approaches.</p>"
 

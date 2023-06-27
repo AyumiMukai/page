@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ayumi Mukai"
-resume_title:                   "summary"
+resume_title:                   "Summary"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "ayumi.cat.mukai@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "1004, 45 Haig St, Southbank VIC 3006"
 resume_header_contact_info:     "+61 422 389 948 • ayumi.cat.mukai@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Graduated Master of Engineering(Archotecture) and engaged on developing an architectural auto-planning system as a system engineer for 2 year. I'm eager to learn and study about quatative evaluation for architecture using mathematical, statistical, and computational approaches.</p>"
+resume_header_intro: "<p>Graduated Master of Engineering(Architecture) and engaged on developing an architectural auto-planning system as a system engineer for 2 year. I'm eager to learn and study about quatative evaluation for architecture using mathematical, statistical, and computational approaches.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

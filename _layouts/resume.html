@@ -124,7 +124,7 @@
           <h2>Works</h2>
         </header>
 
-        {% for works in site.data.works %}
+        {% for work in site.data.works %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h3 class="resume-item-title" itemprop="name">{% if work.url %}<a href="{{ work.url }}" itemprop="url">{{ work.project }}</a>{% else %}{{ work.project }}{% endif %}</h3>

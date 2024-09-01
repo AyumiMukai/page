@@ -126,7 +126,7 @@
 
         {% for works in site.data.works %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+          <!-- <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" /> -->
           <h3 class="resume-item-title" itemprop="name">{% if work.url %}<a href="{{ work.url }}" itemprop="url">{{ work.project }}</a>{% else %}{{ work.project }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ work.role }}  &bull; {{ work.duration }}</h4>
           <p class="resume-item-copy">{{ work.description }}</p>
@@ -134,7 +134,7 @@
         {% endfor %}
 
       </section>
-      <!-- end Projects -->
+      <!-- end Works -->
       {% endif %}
 
       {% if site.resume_section_publications %}
@@ -146,7 +146,7 @@
 
         {% for works in site.data.works %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+          <!-- <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" /> -->
           <h3 class="resume-item-title" itemprop="name">{% if publication.url %}<a href="{{ publication.url }}" itemprop="url">{{ publication.project }}</a>{% else %}{{ publication.project }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ publication.role }}  &bull; {{ publication.duration }}</h4>
           <p class="resume-item-copy">{{ publication.description }}</p>

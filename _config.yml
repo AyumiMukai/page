@@ -17,10 +17,10 @@ resume_title:                   "Summary"
 resume_contact_email:           "ayumi.cat.mukai@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+61 422 389 948"
+resume_contact_telephone:       "+81 80 2555 4606"
 resume_contact_address:         "1004, 45 Haig St, Southbank VIC 3006"
 
-resume_header_contact_info:     "+61 422 389 948 • ayumi.cat.mukai@gmail.com"
+resume_header_contact_info:     "+81 80 2555 4606 • ayumi.cat.mukai@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Graduated Master of Engineering(Architecture) and engaged on developing an architectural auto-planning system as a system engineer for 2 year. I'm eager to learn and study about quatative evaluation for architecture using mathematical, statistical, and computational approaches.</p>"
@@ -47,10 +47,10 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/AyumiMukai"
+  #resume_github_url:            "https://github.com/AyumiMukai"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
-  resume_facebook_url:          "https://www.facebook.com/ayumi.mukai.545/"
+  #resume_facebook_url:          "https://www.facebook.com/ayumi.mukai.545/"
   resume_linkedin_url:          "https://www.linkedin.com/in/ayumi-mukai/"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "https://ayumimukai.github.io/page"
